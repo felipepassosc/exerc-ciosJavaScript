@@ -1,0 +1,12 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "linebreak-style": ["error", "windows"],
+        "indent": ["error", 4],
+        "prefer-template": 0,
+        "no-multi-str": 0
+    },
+    "env": {
+        "browser": true
+    }
+}
